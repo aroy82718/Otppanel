@@ -1,0 +1,16 @@
+{
+  "created": "20261101_150809",
+  "files": [
+    "firebase_bot.py",
+    "check_firebases.py",
+    "firebases.json",
+    "db_status.json",
+    "db_report.txt",
+    "README_FIX.md",
+    "users.json"
+  ],
+  "firebases": 812,
+  "users": 1,
+  "admins": 0,
+  "channels": 0
+}
